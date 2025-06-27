@@ -1,6 +1,6 @@
 # Email Redactor
 
-A privacy-focused email processing tool that extracts emails from Apple Mail, allows you to redact sensitive information by selecting text, and provides AI-powered summarization and Q&A capabilities. Once you redact a term, it's stored in a local database and automatically applied to all future emails - no need to redact the same information twice!
+A privacy-focused email processing tool that extracts emails from Apple Mail, allows you to redact sensitive information by selecting text, and provides AI-powered summarization and Q&A capabilities. Once you redact a term, it's stored in a local database and automatically applied to all future emails - no need to redact the same information twice! Works with every account type, Gmail, Icloud, Outlook, Exchange, just need to be on the apple mail app.
 
 ## Features
 
