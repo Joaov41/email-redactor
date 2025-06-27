@@ -1,11 +1,11 @@
 # Email Redactor
 
-A privacy-focused email processing tool that extracts emails from Apple Mail, automatically redacts sensitive information, and provides AI-powered summarization and Q&A capabilities.
+A privacy-focused email processing tool that extracts emails from Apple Mail, allows you to redact sensitive information by selecting text, and provides AI-powered summarization and Q&A capabilities. Once you redact a term, it's stored in a local database and automatically applied to all future emails - no need to redact the same information twice!
 
 ## Features
 
 - 📧 **Direct Apple Mail Integration**: Extract emails directly from Apple Mail using AppleScript
-- 🔐 **Automatic Redaction**: Identifies and redacts sensitive information (names, organizations, locations)
+- 🔐 **Smart Redaction with Memory**: Select any text to redact it - once redacted, the app remembers and automatically applies the same redactions to all future emails
 - 💾 **Persistent Storage**: Redaction mappings are stored for consistent anonymization
 - 🌍 **Multilingual Support**: Works with both English and Portuguese content
 - 🤖 **AI-Powered Summaries**: Generate summaries using OpenAI GPT or Google Gemini models
@@ -78,9 +78,10 @@ API keys are stored locally in your browser and never sent anywhere except to th
    - Click "Extract Emails"
 
 4. **Review and redact**:
-   - Emails are automatically redacted using stored patterns
-   - Select text to manually redact additional information
-   - Redactions are saved for future use
+   - Select any text in the email to redact it with one click
+   - Your redactions are saved to a local database
+   - Previously redacted terms are automatically applied to new emails
+   - No need to redact the same names, companies, or locations twice!
 
 5. **Summarize**:
    - Choose your preferred AI model
