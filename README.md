@@ -4,17 +4,17 @@ A privacy-focused email processing tool that extracts emails from Apple Mail, al
 
 ## Features
 
-- 📧 **Direct Apple Mail Integration**: Extract emails directly from Apple Mail using AppleScript
-- 🔐 **Smart Redaction with Memory**: Select any text to redact it - once redacted, the app remembers and automatically applies the same redactions to all future emails
-- 💾 **Persistent Storage**: Redaction mappings are stored for consistent anonymization
-- 🌍 **Multilingual Support**: Works with both English and Portuguese content
-- 🤖 **AI-Powered Summaries**: Generate summaries using OpenAI GPT or Google Gemini models
-- 💬 **Interactive Q&A**: Ask questions about email content with context preservation
-- 🔓 **Deanonymization**: Restore original content when needed (for authorized users)
-- 🌙 **Dark Mode**: Full dark mode support for comfortable viewing
-- ⚡ **Real-time Streaming**: See AI responses as they're generated
-- 🔊 **Text-to-Speech**: Listen to summaries and responses using macOS voices
-- 📝 **Summary History**: Store and retrieve past email summaries
+- **Direct Apple Mail Integration**: Extract emails directly from Apple Mail using AppleScript
+- **Smart Redaction with Memory**: Select any text to redact it - once redacted, the app remembers and automatically applies the same redactions to all future emails
+- **Persistent Storage**: Redaction mappings are stored for consistent anonymization
+- **Multilingual Support**: Works with both English and Portuguese content
+- **AI-Powered Summaries**: Generate summaries using OpenAI GPT or Google Gemini models
+- **Interactive Q&A**: Ask questions about email content with context preservation
+- **Deanonymization**: Restore original content when needed (for authorized users)
+- **Dark Mode**: Full dark mode support for comfortable viewing
+- **Real-time Streaming**: See AI responses as they're generated
+- **Text-to-Speech**: Listen to summaries and responses using macOS voices
+- **Summary History**: Store and retrieve past email summaries
 
 ![CleanShot 2025-06-27 at 18 50 46@2x](https://github.com/user-attachments/assets/9cfad756-6fd5-48e2-9091-6624f02b4338)
 
