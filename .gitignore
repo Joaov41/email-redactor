@@ -1,0 +1,39 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/*.db
+backend/.pytest_cache/
+*.py[cod]
+*$py.class
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
