@@ -16,6 +16,9 @@ A privacy-focused email processing tool that extracts emails from Apple Mail, al
 - 🔊 **Text-to-Speech**: Listen to summaries and responses using macOS voices
 - 📝 **Summary History**: Store and retrieve past email summaries
 
+![CleanShot 2025-06-27 at 18 50 46@2x](https://github.com/user-attachments/assets/9cfad756-6fd5-48e2-9091-6624f02b4338)
+
+
 ## Privacy First
 
 **Important**: Only redacted content is sent to AI models. Your sensitive information never leaves your machine in its original form.
@@ -26,6 +29,11 @@ A privacy-focused email processing tool that extracts emails from Apple Mail, al
 - Python 3.8+
 - Node.js 14+
 - Apple Mail configured with at least one email account
+
+![CleanShot 2025-06-27 at 18 51 06@2x](https://github.com/user-attachments/assets/695255cd-f1bb-4b45-9476-52ce7355e560)
+
+![CleanShot 2025-06-27 at 18 51 19@2x](https://github.com/user-attachments/assets/04d2cfa4-2e27-4c41-b7ed-ad91609e1129)
+
 
 ## Installation
 
