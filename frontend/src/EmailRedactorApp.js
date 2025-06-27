@@ -119,6 +119,7 @@ export default function EmailRedactorApp() {
   // Original states from RedactorApp
   const [extractedText, setExtractedText] = useState('');
   const [redactedText, setRedactedText] = useState('');
+  const [loading, setLoading] = useState(false);
   const [llmLoading, setLlmLoading] = useState(false);
   const [summaryLoading, setSummaryLoading] = useState(false);
   const [error, setError] = useState('');
